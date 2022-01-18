@@ -33,7 +33,6 @@
 
 <script lang="ts">
 import { Options, Vue } from 'vue-class-component';
-import { getStatisticsList } from '@/api';
 
 @Options({
   props: {
